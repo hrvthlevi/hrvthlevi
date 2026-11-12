@@ -50,12 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrvthlevi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-### Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
 ---
 
 <p align="center">
