@@ -1,14 +1,15 @@
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=13191F&height=180&section=header&text=Levi&fontSize=68&fontColor=C16B45&animation=fadeIn&fontAlignY=42&desc=Software%20Developer%20%26%20Tester&descSize=18&descColor=E6B878&descAlignY=68" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=160&section=header&text=Levi&fontSize=65&fontColor=D98B70&animation=fadeIn&fontAlignY=45&desc=Software%20Developer%20%26%20Tester&descSize=18&descColor=E5B66A&descAlignY=70" width="100%" />
+### Building ideas into code.
 
 <p>
   <a href="https://hrvthlevi.github.io/profile-studio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-D98B70?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-C16B45?style=for-the-badge&logo=googlechrome&logoColor=F0E5D5" />
   </a>
   <a href="https://github.com/hrvthlevi">
-    <img src="https://img.shields.io/badge/GitHub-Follow-171717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-2B2F2E?style=for-the-badge&logo=github&logoColor=F0E5D5" />
   </a>
 </p>
 
@@ -18,15 +19,15 @@
 
 ## About Me
 
-I'm Levi, an aspiring software developer with an interest in web development, backend systems, and software testing.
+Hi, I'm **Levi**, an aspiring software developer with an interest in building applications, exploring new technologies, and solving problems through code.
 
-I enjoy exploring new technologies, building projects, and finding solutions to challenging problems. I'm continuously learning and working on improving my development skills.
+I enjoy both frontend and backend development, experimenting with different technologies, and continuously improving my skills through personal projects and practical experience.
 
 - Currently studying software development
-- Interested in full-stack development
-- Exploring different programming languages and frameworks
+- Interested in full-stack development and software testing
+- Enjoy building applications and exploring new ideas
 - Focused on writing clean, maintainable code
-- Always open to learning and new opportunities
+- Always learning and looking for new challenges
 
 ---
 
@@ -34,29 +35,21 @@ I enjoy exploring new technologies, building projects, and finding solutions to 
 
 <div align="center">
 
-### Languages
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=js,java,python,php,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,cs,python,php,html,css" />
 
-### Frameworks & Libraries
+<br />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,laravel" />
+**Frameworks & Libraries**
 
-### Databases & Tools
+<img src="https://skillicons.dev/icons?i=react,laravel" />
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,linux,vscode" />
+<br />
 
-</div>
+**Databases & Tools**
 
----
-
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/hrvthlevi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrvthlevi&repo=DreamTeam&theme=transparent&hide_border=true&title_color=D98B70&text_color=C9D1D9&icon_color=E5B66A" />
-</a>
+<img src="https://skillicons.dev/icons?i=mysql,git,github" />
 
 </div>
 
@@ -66,22 +59,28 @@ I enjoy exploring new technologies, building projects, and finding solutions to 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hrvthlevi&show_icons=true&theme=transparent&hide_border=true&title_color=D98B70&text_color=C9D1D9&icon_color=E5B66A&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hrvthlevi&show_icons=true&theme=transparent&hide_border=true&title_color=C16B45&text_color=F0E5D5&icon_color=E6B878" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrvthlevi&layout=compact&theme=transparent&hide_border=true&title_color=D98B70&text_color=C9D1D9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrvthlevi&layout=compact&theme=transparent&hide_border=true&title_color=C16B45&text_color=F0E5D5" />
 
 </div>
 
 ---
 
+## Currently Exploring
+
+- Building modern interfaces with React and TypeScript
+- Backend development with Laravel and PHP
+- Object-oriented programming and software architecture
+- Software testing and quality assurance
+- Improving development workflows and best practices
+
+---
+
 <div align="center">
 
-### Dev Quote
+### Always learning. Always building.
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&section=footer&text=Always%20learning.%20Always%20building.&fontSize=18&fontColor=D98B70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=13191F&height=90&section=footer&text=Turning%20ideas%20into%20reality.&fontSize=20&fontColor=E6B878" width="100%" />
 
 </div>
