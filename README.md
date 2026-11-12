@@ -1,88 +1,66 @@
- <div align="center">
-
-# Levi
-
-### Software Developer & Tester
-
-*Building ideas into code.*
-
-<p>
-  <a href="https://hrvthlevi.github.io/profile-studio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE_MY_WORK-C16B45?style=for-the-badge&labelColor=13191F" />
-  </a>
+<p align="center">
   <a href="https://github.com/hrvthlevi">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW_ME-2B2F2E?style=for-the-badge&logo=github&logoColor=F0E5D5" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Levi" alt="Hello! I&#39;m Levi" />
   </a>
 </p>
 
-**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+<p align="center">
+  <a href="https://www.linkedin.com/in/levente-roland-horvath" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:horvathleventeroland@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-</div>
+### 🛠️ Tech Stack
 
-## About Me
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+</p>
 
-Hi, I'm **Levi**, an aspiring software developer interested in building applications, exploring new technologies, and solving problems through code.
+### 📊 GitHub Stats
 
-I enjoy both frontend and backend development, experimenting with different technologies, and continuously improving my skills through personal projects and practical experience.
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=hrvthlevi&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true&cache_seconds=21600" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=hrvthlevi&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-- Currently studying software development
-- Interested in full-stack development and software testing
-- Enjoy building applications and exploring new ideas
-- Focused on writing clean and maintainable code
-- Always learning and looking for new challenges
+### 📈 Contribution Activity
 
----
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/hrvthlevi/hrvthlevi/output/activity-graph.svg" alt="GitHub contribution activity graph" />
+</p>
 
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,java,cs,python,php,html,css" alt="Programming languages" />
-
-<br /><br />
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,laravel" alt="Frameworks and libraries" />
-
-<br /><br />
-
-**Databases & Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github" alt="Databases and tools" />
-
-</div>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hrvthlevi&show_icons=true&theme=transparent&hide_border=true&title_color=C16B45&text_color=F0E5D5&icon_color=E6B878" alt="GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrvthlevi&layout=compact&theme=transparent&hide_border=true&title_color=C16B45&text_color=F0E5D5" alt="Most used languages" />
-
-</div>
-
----
-
-## Currently Exploring
-
-- Building modern interfaces with React and TypeScript
-- Backend development with Laravel and PHP
-- Object-oriented programming and software architecture
-- Software testing and quality assurance
-- Improving development workflows and best practices
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrvthlevi/hrvthlevi/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hrvthlevi/hrvthlevi/output/snake.svg">
+    <img src="https://raw.githubusercontent.com/hrvthlevi/hrvthlevi/output/snake.svg" width="100%" alt="GitHub contribution grid snake animation">
+  </picture>
+</p>
 
 ---
-
-<div align="center">
-
-### Always learning. Always building.
-
-<sub>Designed with curiosity. Built with code.</sub>
-
-</div>
+<p align="center"><i>⭐️ From <a href="https://github.com/hrvthlevi">hrvthlevi</a></i></p>
