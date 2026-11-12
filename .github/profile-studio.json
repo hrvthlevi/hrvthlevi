@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "hero": {
+    "profile_views": false,
+    "portrait": false
+  },
+  "activity": {
+    "enabled": true,
+    "theme": "github-compact"
+  },
+  "snake": {
+    "enabled": true
+  }
+}
