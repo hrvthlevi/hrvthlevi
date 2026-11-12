@@ -81,6 +81,6 @@ I enjoy both frontend and backend development, experimenting with different tech
 
 ### Always learning. Always building.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=13191F&height=90&section=footer&text=Turning%20ideas%20into%20reality.&fontSize=20&fontColor=E6B878" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=13191F&height=90&section=footer&text=Always%20learning.%20Always%20building.&fontSize=20&fontColor=E6B878" width="100%" />
 
 </div>
